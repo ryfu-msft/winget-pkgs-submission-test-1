@@ -1,0 +1,14 @@
+# Created using wingetcreate 0.3.0.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
+
+PackageIdentifier: VideoLAN.VLC
+PackageVersion: 3.0.12
+Installers:
+- Architecture: x64
+  InstallerType: msi
+  InstallerUrl: https://download.videolan.org/vlc/3.0.12/win64/vlc-3.0.12-win64.msi
+  InstallerSha256: 99A5D0252304FBCD6BA5FFDF7C11A5CCC4F8439A328B2957A83BD21DCB39DE55
+  ProductCode: '{C68EE8EE-7DA6-4CFF-82D5-A99A4ABE2C54}'
+ManifestType: installer
+ManifestVersion: 1.0.0
+
