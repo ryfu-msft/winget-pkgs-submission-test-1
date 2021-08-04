@@ -1,0 +1,13 @@
+# Created using wingetcreate 0.3.0.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.0.0.schema.json
+
+PackageIdentifier: SpotifyLtd.Spotify
+PackageVersion: 0,0,0,0
+Installers:
+- Architecture: x86
+  InstallerType: exe
+  InstallerUrl: https://download.scdn.co/SpotifySetup.exe
+  InstallerSha256: 2B979F6D65F402EC5CBA36855919624EA9D6EE289E62561BF797F5BF3824D02D
+ManifestType: installer
+ManifestVersion: 1.0.0
+
